@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junko Nakano</title>
+    <link>/</link>
+    <description>Recent content on Junko Nakano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Books I read in January &amp; February 2019</title>
+      <link>/2019/02/25/books-i-read-in-january-february-2019/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/25/books-i-read-in-january-february-2019/</guid>
+      <description>January Japanese  最悪の事故が起こるまで人は何をしていたのか amazon link
+ 検証 拓銀破たん10年 amazon link
+ 確率論と私 amazon link
+ 名画の読み方 amazon link
+ 物語 スペインの歴史 海洋帝国の黄金時代 amazon link
+ FACTFULNESS(ファクトフルネス) 10の思い込みを乗り越え、データを基に世界を正しく見る習慣 amazon link
+ 大坂堂島米市場 江戸幕府ｖｓ市場経済 amazon link
+ ポル・ポト〈革命〉史―虐殺と破壊の四年間 amazon link
+    February Japanese  実践 金融データサイエンス 隠れた構造をあぶり出す6つのアプローチ amazon link   English  Citizenville: How to Take the Town Square Digital and Reinvent Government amazon link, US</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, I&amp;rsquo;m Junko Nakano, 26 years old currently living in Tokyo, Japan. I plan to make this site full of what I like and am curious about.</description>
+    </item>
+    
+  </channel>
+</rss>
