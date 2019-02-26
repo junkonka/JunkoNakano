@@ -11,33 +11,33 @@ categories: ["books"]
 
 ### Japanese
 
-- 最悪の事故が起こるまで人は何をしていたのか [amazon link](https://www.amazon.co.jp/dp/4794222939/ref=cm_sw_r_cp_api_i_zCikCbWR8KJ6Z)
+- 最悪の事故が起こるまで人は何をしていたのか [(amazon link)](https://www.amazon.co.jp/dp/4794222939/ref=cm_sw_r_cp_api_i_zCikCbWR8KJ6Z)
 
-- 検証 拓銀破たん10年 [amazon link](https://www.amazon.co.jp/dp/4894534606/ref=cm_sw_r_cp_api_i_2dJkCb8H0Z78D)
+- 検証 拓銀破たん10年 [(amazon link)](https://www.amazon.co.jp/dp/4894534606/ref=cm_sw_r_cp_api_i_2dJkCb8H0Z78D)
 
-- 確率論と私 [amazon link](https://www.amazon.co.jp/dp/4006003900/ref=cm_sw_r_cp_api_i_VPklCbGA0EDW0)
+- 確率論と私 [(amazon link)](https://www.amazon.co.jp/dp/4006003900/ref=cm_sw_r_cp_api_i_VPklCbGA0EDW0)
 
-- 名画の読み方 [amazon link](https://www.amazon.co.jp/dp/B07HY9GLZJ/ref=cm_sw_r_cp_awdb_c_UULpCb9GTAW3X)
+- 名画の読み方 [(amazon link)](https://www.amazon.co.jp/dp/B07HY9GLZJ/ref=cm_sw_r_cp_awdb_c_UULpCb9GTAW3X)
 
-- 物語 スペインの歴史 海洋帝国の黄金時代 [amazon link](https://www.amazon.co.jp/dp/B00LMB05E2/ref=cm_sw_r_cp_awdb_c_pTLpCbY67DNR3)
+- 物語 スペインの歴史 海洋帝国の黄金時代 [(amazon link)](https://www.amazon.co.jp/dp/B00LMB05E2/ref=cm_sw_r_cp_awdb_c_pTLpCbY67DNR3)
 
-- FACTFULNESS(ファクトフルネス)  10の思い込みを乗り越え、データを基に世界を正しく見る習慣 [amazon link](https://amzn.to/2CryuVx)
+- FACTFULNESS(ファクトフルネス)  10の思い込みを乗り越え、データを基に世界を正しく見る習慣 [(amazon link)](https://amzn.to/2CryuVx)
 
-- 大坂堂島米市場 江戸幕府ｖｓ市場経済 [amazon link](https://www.amazon.co.jp/dp/B07FCBNN33/ref=cm_sw_r_cp_awdb_c_tvEqCbY91WNYM)
+- 大坂堂島米市場 江戸幕府ｖｓ市場経済 [(amazon link)](https://www.amazon.co.jp/dp/B07FCBNN33/ref=cm_sw_r_cp_awdb_c_tvEqCbY91WNYM)
 
-- ポル・ポト〈革命〉史―虐殺と破壊の四年間 [amazon link](https://www.amazon.co.jp/dp/4062583054/ref=cm_sw_r_oth_api_i_BxEtCbMWC0NEJ)
+- ポル・ポト〈革命〉史―虐殺と破壊の四年間 [(amazon link)](https://www.amazon.co.jp/dp/4062583054/ref=cm_sw_r_oth_api_i_BxEtCbMWC0NEJ)
 
 # February 
 
 ### Japanese
 
-- 実践 金融データサイエンス 隠れた構造をあぶり出す6つのアプローチ [amazon link](https://www.amazon.co.jp/dp/4532134811/ref=cm_sw_r_oth_api_i_t.VuCb4ST5QM3)
+- 実践 金融データサイエンス 隠れた構造をあぶり出す6つのアプローチ [(amazon link)](https://www.amazon.co.jp/dp/4532134811/ref=cm_sw_r_oth_api_i_t.VuCb4ST5QM3)
 
 ### English 
 
-- Citizenville: How to Take the Town Square Digital and Reinvent Government [amazon link, US](https://www.amazon.com/Citizenville-Square-Digital-Reinvent-Government/dp/0143124471)
+- Citizenville: How to Take the Town Square Digital and Reinvent Government [(US amazon link)](https://www.amazon.com/Citizenville-Square-Digital-Reinvent-Government/dp/0143124471)
 
-- 21 Lessons for the 21st Century [amazon link, US](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
+- 21 Lessons for the 21st Century [(US amazon link) ](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512179)
 
-- Becoming [amazon link, US](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) ,currently reading
- 
+- Becoming  [(US amazon link) ](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136) 
+-- currently reading
