@@ -6,10 +6,27 @@
     <description>Recent content on Junko Nakano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books I am reading in 2019 </title>
+      <link>/2019/02/25/books-i-am-reading-in-2019/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/25/books-i-am-reading-in-2019/</guid>
+      <description>January Japanese  最悪の事故が起こるまで人は何をしていたのか (amazon link)
+ 検証 拓銀破たん10年 (amazon link)
+ 確率論と私 (amazon link)
+ 名画の読み方 (amazon link)
+ 物語 スペインの歴史 海洋帝国の黄金時代 (amazon link)
+ FACTFULNESS(ファクトフルネス) 10の思い込みを乗り越え、データを基に世界を正しく見る習慣 (amazon link)
+ 大坂堂島米市場 江戸幕府ｖｓ市場経済 (amazon link)
+ ポル・ポト〈革命〉史―虐殺と破壊の四年間 (amazon link)
+    February Japanese  実践 金融データサイエンス 隠れた構造をあぶり出す6つのアプローチ (amazon link)   English  Citizenville: How to Take the Town Square Digital and Reinvent Government (US amazon link)</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -18,15 +35,6 @@
       
       <guid>/about/</guid>
       <description>Hi, I&amp;rsquo;m Junko Nakano, 26 years old currently living in Tokyo, Japan. I plan to make this site full of what I like and am curious about.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/</guid>
-      <description>Books I am reading in 2019       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
