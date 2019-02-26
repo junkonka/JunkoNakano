@@ -6,7 +6,7 @@ categories: ["books"]
 #tags: ["R Markdown", "plot", "regression"]
 ---
 
-
+  
 # January 
 
 ### Japanese
